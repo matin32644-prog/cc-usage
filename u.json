@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-28 22:37",
+ "got": "2026-11-28 22:37",
+ "warn": "",
+ "rows": [
+  {
+   "k": "session",
+   "label": "5시간",
+   "pct": 100,
+   "reset": "11/28 23:40",
+   "reset_at": "2026-11-28T23:40",
+   "line": 79
+  },
+  {
+   "k": "weekly_all",
+   "label": "주간 전체",
+   "pct": 14,
+   "reset": "12/5 17:00",
+   "reset_at": "2026-12-05T17:00",
+   "line": 14.3,
+   "day": 1,
+   "proj": "0%p 덜 씀",
+   "proj_over": false
+  }
+ ],
+ "img": "https://raw.githubusercontent.com/matin32644-prog/cc-usage/data/u_202611282237.png"
+}
